@@ -1,0 +1,4 @@
+Amazon-Cart -> Shopping cart microservice
+Amazon-Login -> Shopping account login microservice
+Amazon-Register -> Shopping account registration microservice
+Amazon-Service -> Shopping server microservice (api gateway)
